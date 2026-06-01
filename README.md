@@ -9,6 +9,9 @@ LangChain • Groq • ChromaDB • Streamlit • HuggingFace
 
 </div>
 
+<img width="1536" height="1024" alt="ChatGPT Image Jun 1, 2026, 04_45_12 PM" src="https://github.com/user-attachments/assets/cc401499-1275-4c1f-b5df-beb25df1527a" />
+
+
 ---
 
 # ✨ Features
