@@ -325,6 +325,3 @@ Give this repository a ⭐ on GitHub.
 
 ---
 
-# 📜 License
-
-This project is licensed under the MIT License.
